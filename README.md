@@ -1,10 +1,10 @@
 FileDrop
 ========
 
-Another drag and drop fil upload
+Another drag and drop fil upload focused on simplicity.
 
 
-Demo here : http://demo.jlb.ninja/FileDrop/example/filedrop.html
+Demo here : http://demo.jlb.ninja/FileDrop/example/filedrop.html. 
 
 
 Usage : 
@@ -17,7 +17,6 @@ var options={
 		console.debug(data);
 	}
 }
-
 
 var uploader=new FileDrop(node, urlUpload, options);
 ```
